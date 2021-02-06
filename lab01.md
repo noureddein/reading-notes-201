@@ -184,6 +184,16 @@ headings).`</p>`
 
 # Chapter 18: Process & Design
 
+## Before you creating a web site you must ask yourself these qustions:
+  - 1 - Who is the Site For?
+  - 2 - Why People Visit YOUR Website?
+  - 3 - What Your Visitors are Trying to Achieve?
+  - 4 - What Information Your Visitors Need?
+  - 5 - How Of ten People Will Visit Your Site?
+  
+
+  
+
 
 
 

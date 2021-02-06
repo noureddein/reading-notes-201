@@ -2,4 +2,4 @@
 
 Read | Links
 ---- | -----
-Introductory HTML and JavaScript (Lab01) | [Link1](reading-notes-201/../lab01.md)
+Introductory HTML and JavaScript (Lab01) <br> | [HTML](reading-notes-201/../lab01.md) <br> [JavaScript] (reading-notes-201/../js.md)
