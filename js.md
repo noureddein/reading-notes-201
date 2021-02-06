@@ -50,3 +50,11 @@
  * Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task programmatically.
 
  * To approach writing a script, break down your goal into  a series of tasks and then work out each step needed to complete that task (a flowchart can help).
+
+# How do computers fit in with world around them?
+* Computers creat models of the world using data
+* The models use objects to represent physical thinhs.
+Objects can have: propeties that tell us about the object, methods that perform tasks using the properties of that object, events which are trigered when a user interacts with the computr>
+* programmers can write code to say "When this event occurs, run that code."
+* Web browswrs use HTML markup to create a model of the web page. Each element creates it own node (which is a kind of object)
+* To make web pages interactive, you write code that uses the browser's model of the web page.
