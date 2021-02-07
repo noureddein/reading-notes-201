@@ -16,11 +16,21 @@
    * `<br/>` To start a new line
    * `<hr/>` To make a Horizontal line
 
+# Summary 
+  - 1- HTML elements are used t XX o describe the structure of the page (e.g. headings,subheadings, paragraphs).
+  - 2- They also provide semantic information (e.g. where emphasis should be placed, the definition of any acronyms used, when given text is a quotation).
 --------------------------------
 
 # Chapter 10: Introducing CSS
 
 ## What is CSS:
-### CSS stands for Cascading Style Sheets
+### CSS stands for **_Cascading Style Sheets_**
 
-> The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element.
+>The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element.
+
+>CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
+
+Name Of Element | Block Elements | Inline Elements
+--------------- | -------------- | ---------------
+anchor |  | `<a>` | 
+Abbreviation |  |`<abbr>`
