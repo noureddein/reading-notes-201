@@ -32,5 +32,23 @@
 
 Name Of Element | Block Elements | Inline Elements
 --------------- | -------------- | ---------------
-anchor |  | `<a>` | 
+Anchor |  | `<a>` | 
 Abbreviation |  |`<abbr>`
+Bring Attention To element | | `<b>`
+Line Break |  | `<br>`
+Button |  | `<button>`
+Emphasis |  | `<em>`
+Image |  | `<img>`
+Input |  | `<input>`
+Script |  | `<script>`
+Address | `<address>` | 
+Footer | `<footer>` | 
+Horizontal line | `<hr>` | 
+Section | `<section>` | 
+List | `<li>` | 
+Order List | `<ol>` | 
+Div | `<div>` | 
+Headings (h1 to h6) | `<h1>` to `<h6>`
+paragraph | `<p>` |
+
+### CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a **_selector_** and a **_declaration_**.
