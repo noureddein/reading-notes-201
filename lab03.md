@@ -109,10 +109,10 @@ You can put a second list inside an `<li>` element to create a sublist or nested
  - 1- CSS treats each HTML element as if it has its own box.
  - 2- You can use CSS to control the dimensions of a box.
  - 3- You can also control the borders, margin and padding for each box with CSS.
- - It is possible to hide elements using the display and visibility properties.
- - Block-level boxes can be made into inline boxes, and inline boxes made into block-level boxes.
- - Legibility can be improved by controlling the width of boxes containing text and the leading.
- - CSS3 has introduced the ability to create image borders and rounded borders.
+ - 4- It is possible to hide elements using the display and visibility properties.
+ - 5- Block-level boxes can be made into inline boxes, and inline boxes made into block-level boxes.
+ - 6- Legibility can be improved by controlling the width of boxes containing text and the leading.
+ - 7- CSS3 has introduced the ability to create image borders and rounded borders.
 
 
 
