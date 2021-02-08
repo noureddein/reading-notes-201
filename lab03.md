@@ -8,12 +8,12 @@
 ### Ordered list:
 The ordered list is created with the `<ol>` element. Each item in the list is placed between an opening `<li>` tag and a closing `</li>` tag (The li stands for list item.)
 
-![or-li]()
+![or-li](https://github.com/noureddein/reading-notes-201/blob/main/img-lab03/or-li.png?raw=true)
 
 ### Unordered Lists:
 The unordered list is created with the `<ul>` element.Each item in the list is placed between an opening `<li>` tag and a closing `</li>` tag (The li stands for list item.)
 
-![ul-li]()
+![ul-li](https://github.com/noureddein/reading-notes-201/blob/main/img-lab03/ul-li.png?raw=true)
 
 ### Definition Lists:
 **`<dl>`** : The definition list is created with the `<dl>` element and usually consists of a series of terms and their definitions.Inside the `<dl>` element you will usually see pairs of `<dt>` and `<dd>` elements.
@@ -21,23 +21,24 @@ The unordered list is created with the `<ul>` element.Each item in the list is p
 **`<dt>`**:This is used to contain the term being defined (the definition term).
 
 **`<dd>`**: This is used to contain the definition
-![dl-li]()
+![dl-li](https://github.com/noureddein/reading-notes-201/blob/main/img-lab03/dl-li.png?raw=true)
+
 ### Nested Lists:
 You can put a second list inside an `<li>` element to create a sublist or nested list.Browsers display nested lists indented further than the parent list. In nested unordered lists, the browser will usually change the style of the bullet point too.
 
-![nested-li]()
+![nested-li](https://github.com/noureddein/reading-notes-201/blob/main/img-lab03/nested-li.png?raw=true)
 -------------------------------
 # Chapter 13:Boxes
 
 ## Box Dimensions (width & height)
 ### We can change the dimension of box by adding the attribute to css and change its width and height.
 
-![width-height]()
+![width-height](https://github.com/noureddein/reading-notes-201/blob/main/img-lab03/width-hieght.png?raw=true)
 
 ## Limiting Width (min-width, max-width)
 ### Some page designs expand and shrink to fit the size of the user's screen. In such designs, the min-width property specifies the smallest size a box can be displayed at when the browser window is narrow, and the max-width property indicates the maximum width a box can stretch to when the browser window is wide.
 
-![min-max-width]()
+![min-max-width](https://github.com/noureddein/reading-notes-201/blob/main/img-lab03/min-max-width.png?raw=true)
 
 ## Limiting height (min-height, max-height)
 ### In the same way that you might want to limit the width of a box on a page, you may also want to limit the height of it. This is achieved using the min-height and max-height properties. The example on this page demonstrates these properties in action. It also shows you what happens when the content of the box takes up more space than the size specified for the box.
@@ -73,7 +74,7 @@ You can put a second list inside an `<li>` element to create a sublist or nested
   - outset
   - hidden / none
   
-![border-style]()
+![border-style](https://github.com/noureddein/reading-notes-201/blob/main/img-lab03/border-style.png?raw=true)
 
 ## Border color: 
 ### You can specify the color of a border using either RGB values, hex codes or CSS color names (as you saw on pages 251-252).
@@ -83,7 +84,7 @@ You can put a second list inside an `<li>` element to create a sublist or nested
    - border-bottom-color
    - border-left-color
 
-![border-color]()
+![border-color](https://github.com/noureddein/reading-notes-201/blob/main/img-lab03/border-color.png?raw=true)
 
 ## Padding:
 ### The padding property allows you to specify how much space should appear between the content of an element and its border.And you can control Padding by:
@@ -101,7 +102,7 @@ You can put a second list inside an `<li>` element to create a sublist or nested
 
 ## Centering Content:
 ### If you want to center a box on the page (or center it inside the element that it sits in), you an set the left-margin and right-margin to auto. In order to center a box on the page, you need to set a width for the box (otherwise it will take up the full width of the page).
-![Centering Content]()
+![Centering Content](https://github.com/noureddein/reading-notes-201/blob/main/img-lab03/centerin-content.png?raw=true)
 
 <hr>
 
