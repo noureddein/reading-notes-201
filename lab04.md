@@ -1,20 +1,20 @@
 # Chapter 4: Links
 ## Writing Links
 ### Links are created using the `<a>` element. Users can click on anything between the opening `<a>` tag and the closing `</a>` tag. You specify which page you want to link to using the href attribute.
-![writing-links]()
+![writing-links](https://github.com/noureddein/reading-notes-201/blob/main/img-lab04/writing-links.png?raw=true)
 ## Linking to Other Pages on the Same Site
 ### When you are linking to other pages within the same site, you do not need to specify the domain name in the URL. You can use a shorthand known as a relative URL.
 
 ## Email Links `mailto:`
 ### To create a link that starts up the user's email program and addresses an email to a specified email address, you use the `<a>` element. However, this time the value of the href attribute starts with mailto: and is followed by the email address you want the email to be sent to.
 
-![email-links]()
+![email-links](https://github.com/noureddein/reading-notes-201/blob/main/img-lab04/email-link.png?raw=true)
 
 
 ## Opening Links in a New Window `target`
 ### If you want a link to open in a new window, you can use the target attribute on the opening `<a>` tag. The value of this attribute should be `_blank`.
 
-![new-window]()
+![new-window](https://github.com/noureddein/reading-notes-201/blob/main/img-lab04/new-window.png?raw=true)
 
 ## Linking to a Specific Part of the Sa me Page
 ### At the top of a long page you might want to add a list of contents that links to the corresponding sections lower down. Or you might want to add a link from part way down the page back to the top of it to save users from having to scroll back to the top.
@@ -22,7 +22,7 @@
 ### Before you can link to a specific part of a page, you need to identify the points in the page that the link will go to. You do this using the id attribute (which can be used on every HTML element.
 
 ### The value of the id attribute should start with a letter or an underscore (not a number or any other character) and, on a single page, no two id attributes should have the same value.
-![link-to-the-same-page]()
+![link-to-the-same-page](https://github.com/noureddein/reading-notes-201/blob/main/img-lab04/link-to-the-same-page.png?raw=true)
 
 # Summary
   - Links are created using the `<a>` element.
@@ -41,7 +41,7 @@
 
 >If one block-level element sits inside another block-level element then the outer box is known as the containing or parent element.
 
-![containing-elements]()
+![containing-elements](https://github.com/noureddein/reading-notes-201/blob/main/img-lab04/containing-elements.png?raw=true)
 
 ### The orange lines in this diagram represent `<div>` elements. The header (containing the logo and navigation) are in one` <div>` element, the main content of the page is in another, and the footer is in a third. The `<body>` element is the containing element for these three `<div>` elements. The second `<div>` element is the containing element for two paragraphs of Latin text and images (represented by crossed squares).
 
@@ -80,3 +80,19 @@
 ### When you use relative, fixed, or absolute positioning, boxes can overlap. If boxes do overlap, the elements that appear later in the HTML code sit on top of those that are earlier in the page.
 
 ### If you want to control which element sits on top, you can use the z-index property. Its value is a number, and the higher the number the closer that element is to the front. For example, an element with a z-index of 10 will appear over the top of one with a z-index of 5.
+
+## Floating Elements
+### The float property allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible. Anything else that sits inside the containing element will flow around the element that is floated.
+
+## Clearing Floats
+
+### The clear property allows you to say that no element (within the same containing element) should touch the left or right-hand sides of a box. It can take the following values:**Left**, **Right**,**both**,**none**.
+
+
+## **Screen Sizes**
+
+### Different visitors to your site will have different sized screens that show different amounts of information, so your design needs to be able to work on a range of different sized screens.
+
+
+## Screen Resolution
+### Resolution refers to the number of dots a screen shows per inch. Some devices have a higher resolution than desktop computers and most operating systems allow users to adjust the resolution of their screens.
