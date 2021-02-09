@@ -15,7 +15,7 @@
 ## Calling a function 
 ### Having declared the function, you can then execute all the statements between its curly braces with just one line of code.This is known as **calling the function**.
 
-![calling-function]()
+![calling-function](https://github.com/noureddein/reading-notes-201/blob/main/img-lab04/calling-function.png?raw=true)
 
 ## Declaring functions that need information
 
@@ -29,9 +29,9 @@
 ## Getting a single value out of a function
 
 ### Some function return information to the code that called them. For example, when they perform a calculation , they return the result.
-![function-return]()
+![function-return](https://github.com/noureddein/reading-notes-201/blob/main/img-lab04/function-return.png?raw=true)
 
 ## Getting multiple values out of a function
 ### Functions can return more than one value using an array.For example, this function calculate the area volume of a box. 
 
-![Getting-multiple-values]()
+![Getting-multiple-values](https://github.com/noureddein/reading-notes-201/blob/main/img-lab04/Getting-multiple-values.png?raw=true)
