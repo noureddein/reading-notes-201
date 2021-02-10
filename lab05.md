@@ -82,16 +82,42 @@
 # Chapter 12: Text
 
 ## Typeface Terminology
-![typeface-termi]()
-![typeface-termi2]()
+![typeface-termi](https://github.com/noureddein/reading-notes-201/blob/main/img-lab05/typeface-termo.png?raw=true)
+![typeface-termi2](https://github.com/noureddein/reading-notes-201/blob/main/img-lab05/typeface-termo2.png?raw=true)
 
 ## Choosing a Typeface for your Website
 ### When choosing a typeface, it is important to understand that a browser will usually only display it if it's installed on that user's computer.
 
-![fonts]()
+![fonts](https://github.com/noureddein/reading-notes-201/blob/main/img-lab05/fots.png?raw=true)
 
 >You can specify a list of fonts separated by commas so that, if the user does not have your first choice of typeface installed,the browser can try to use an alternative font from the list.
 
 ## Size of Type (font-size)
 
 ### The font-size property enables you to specify a size for the font. There are several ways to specify the size of a font. The most common are:
+   * **pixels**
+   * **percentages**
+   * **ems**
+
+## Type Scales
+### You may have noticed that programs such as Word, Photoshop and InDesign offer the same sizes of text.
+
+#### This is because they are set according to a scale or ratio that was developed by European typographers in the sixteenth century.
+
+## Units of Type Size
+![unit-of-type size](https://github.com/noureddein/reading-notes-201/blob/main/img-lab05/unit%20of%20typr%20size.png?raw=true)
+
+>Setting font size in pixels is the best way to ensure that the type appears at the size you intended.
+
+>The default size of text in a web browser is 16 pixels.
+
+## More Font Choice (@font-face)
+### @font-face allows you to use a font, even if it is not installed on the computer of the person browsing, by allowing you to specify a path to a copy of the font, which will be downloaded if it is not on the user's machine.
+![font@face](https://github.com/noureddein/reading-notes-201/blob/main/img-lab05/font@face.png?raw=true)
+
+  - **font-family**:This specifies the name of the font. This name can then be used as a value of the font-family property in the rest of the style sheet (as shown in the rule for the `<h1>` and `<h2>` elements).
+
+  - **src**:  This specifies the path to the font. In order for this technique to work in all browsers, you will probably need to specify paths to a few different versions of the font, as shown on the next page.
+
+  - **format**:  This specifies the format that the font is supplied in.
+
