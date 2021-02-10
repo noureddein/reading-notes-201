@@ -6,7 +6,7 @@ Introductory HTML and JavaScript (Lab01) <br> | [HTML](reading-notes-201/../lab0
 HTML Text, CSS Introduction, and Basic JavaScript Instructions (Lab02) | [HTML & CSS](reading-notes-201/../lab02.md) <br> [JavaScript](reading-notes-201/../js-lab02.md)
 HTML Lists, CSS Boxes, JS Control Flow (Lab03) | [HTML & CSS](reading-notes-201/../lab03.md) <br> [JavaScript](reading-notes-201/../js-lab03.md)
 HTML Links, JS Functions, and Intro to CSS Layout(Lab04) | [HTML & CSS](reading-notes-201/../lab04.md) <br> [JavaScript](reading-notes-201/../js-lab04.md)
-HTML Images; CSS Color & Text (Lab05) | [HTML & Css](reading-notes-201/../lab04.md)
+HTML Images; CSS Color & Text (Lab05) | [HTML & Css](reading-notes-201/../lab05.md)
 
 
 ## Resources: 
