@@ -8,6 +8,7 @@ HTML Lists, CSS Boxes, JS Control Flow (Lab03) | [HTML & CSS](reading-notes-201/
 HTML Links, JS Functions, and Intro to CSS Layout(Lab04) | [HTML & CSS](reading-notes-201/../lab04.md) <br> [JavaScript](reading-notes-201/../js-lab04.md)
 HTML Images; CSS Color & Text (Lab05) | [HTML & Css](reading-notes-201/../lab05.md)
 JS Object Literals; The DOM | [JavaScript](reading-notes-201/../js-lab06.md)
+JS Constructor Functions | [JavaScript](reading-notes-201/../js-lab07.md)
 
 
 ## Resources: 
