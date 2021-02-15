@@ -6,11 +6,11 @@
 ## Creating an object:
 ### Literal notation is the easiest and most popular way to create objects.
 
-![literal-notation-method]()
+![literal-notation-method](https://github.com/noureddein/reading-notes-201/blob/main/img-lab06/literal-notation-method.png?raw=true)
 
 ## Accessing an Object and Dot notation
 ### You can access the properties or methods of an object using dot notation.and you can also access properties using square brackets.
-![accessing-an-object-and-dot-notation.png]()
+![accessing-an-object-and-dot-notation.png](https://github.com/noureddein/reading-notes-201/blob/main/img-lab06/accessing-an-object-and-dot-notation.png?raw=true)
 
 --------------------------------
 
@@ -24,7 +24,7 @@
 
 ### As a browser loads a web page, it creates a model of that page. The model is called a DOM tree, and it is stored in the browsers' memory. It consists of four main types of nodes.
 
-![DOM-tree]()
+![DOM-tree](https://github.com/noureddein/reading-notes-201/blob/main/img-lab06/dom0tree.png?raw=true)
 
 ## WORKING WITH THE DOM TREE:
 ### Accessing and updating the DOM tree involves two steps:
