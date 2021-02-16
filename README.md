@@ -9,7 +9,7 @@ HTML Links, JS Functions, and Intro to CSS Layout(Lab04) | [HTML & CSS](reading-
 HTML Images; CSS Color & Text (Lab05) | [HTML & Css](reading-notes-201/../lab05.md)
 JS Object Literals; The DOM | [JavaScript](reading-notes-201/../js-lab06.md)
 JS Constructor Functions | [JavaScript](reading-notes-201/../js-lab07.md)
-CSS Layout| [CSS](reading-notes-201/../js-lab08.md)
+CSS Layout| [CSS](reading-notes-201/../lab08.md)
 
 
 ## Resources
