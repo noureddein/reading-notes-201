@@ -12,6 +12,7 @@ JS Constructor Functions | [JavaScript](reading-notes-201/../js-lab07.md)
 CSS Layout| [CSS](reading-notes-201/../lab08.md)
 Forms and Events | [HTML](reading-notes-201/../lab09.md) <br> [JavaScript](reading-notes-201/../js-lab09.md)
 Debugging | [JavaScript](reading-notes-201/../js-lab10.md)
+Read: 11 - Assorted Topics | [HTML](reading-notes-201/../lab11.md)
 
 
 
