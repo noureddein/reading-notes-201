@@ -81,10 +81,10 @@ load, you can create image sprites.
 
 on-page techniques | off-page techniques.
 ------------------ | --------------------
-On-page is a method to improve <br> the rating of my page. | Getting other sites to link to you
+On-page is a method to improve the rating of my page. | Getting other sites to link to you
 is just as important as on-page techniques
-SEO depends on terms that people going to <br> search | They are particularly interested in sites whose content is related to yours.
-There are seven places where you want your keywords to appear <br> So, Ensuring that any img have appropriate text in the value of alt. | Search engines also look at the
+SEO depends on terms that people going to search | They are particularly interested in sites whose content is related to yours.
+There are seven places where you want your keywords to appear So, Ensuring that any img have appropriate text in the value of alt. | Search engines also look at the
 words between the opening `<a>` tag and closing `</a>` tag in the link.
 
 ## ON-Page SEO
