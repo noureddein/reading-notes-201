@@ -14,6 +14,7 @@
 | Debugging                                                              | [JavaScript](reading-notes-201/../js-lab10.md)                                                  |
 | Read: 11 - Assorted Topics                                             | [HTML](reading-notes-201/../lab11.md)                                                           |
 | Chart.js, Canvas                                                       | [Articls](reading-notes-201/../lab12.md)                                                        |
+| Read: 13 - Local Storage                                               | [Articls](reading-notes-201/../lab13.md)                                                        |
 
 ## Resources
 
